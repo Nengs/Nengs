@@ -1,9 +1,16 @@
 ![giphy](https://user-images.githubusercontent.com/93233472/222144087-d58dab49-f49a-4306-ae6d-af7624833663.gif)
 
 # 💫 About Me:
-I'm a very passionate tech enthusiast and I follow-up the trends on the latest within the techosphere.<br><br>currently, I'm enrolled into the ALX_SE cohort13 program.
-The next 12 months will be challenging and I'd would be looking forward to a exciting career in Front-end dev and App dev. However, I'm eager to learn and develop my skills in the field of software development. I have a strong interest in Web & App dev, Ai & ML, and I am excited to contribute to open source projects and gain experience in collaborative coding.
-<br>Some facts about  me: I'm fun, adventurous, got a strong will, empowered by grit, love challenges.
+Welcome to my creative coding haven! 🌟 Here, I merge my love for frontend web and app development with the thrill of hacking and the art of designing unique ideas. With a knack for crafting innovative solutions, I dive deep into the world of frontend technologies, weaving together seamless user experiences. From pixel-perfect designs to groundbreaking app functionalities, every line of code is a brushstroke in the canvas of digital creativity. Join me as we hack through challenges, breathe life into ideas, and shape the digital landscape with our unique perspectives. Let's build something extraordinary together! 🚀🎨
+<br> Some perksand qualities I possess are;Perks and Qualities:
+
+Innovative Thinking: I thrive on generating unique ideas and solutions.💡
+Grit and Tenacity: Challenges are just opportunities in disguise.🦾
+Collaborative Spirit: I believe in the power of teamwork and open collaboration.🤝
+Passion for Design: Crafting visually stunning and user-centric experiences is my passion.⚡️
+Continuous Learner: Always eager to expand my skill set and embrace new technologies.🫶🏻
+Adventurous Nature: Ready to explore new territories and push boundaries.🛸
+
 
 
 
